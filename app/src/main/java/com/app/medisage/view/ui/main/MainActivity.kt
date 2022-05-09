@@ -4,6 +4,7 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.viewpager.widget.ViewPager
 import com.app.medisage.databinding.ActivityMainBinding
+import com.app.medisage.view.ui.adapter.SectionsPagerAdapter
 import com.google.android.material.tabs.TabLayout
 
 
